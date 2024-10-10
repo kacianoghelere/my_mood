@@ -22,3 +22,5 @@ The report feature enables users to gain insights into their emotional trends by
 - **fl_chart**: For rendering the mood frequency bar chart in the report section.
 
 This app is a useful tool for individuals looking to track their emotional well-being, understand mood patterns, and identify potential triggers for mood changes.
+
+[Showcase](https://github.com/user-attachments/assets/bbb7e800-457b-4a6d-b121-d63148624343)
